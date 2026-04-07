@@ -8,6 +8,31 @@ if (true){
 }
 
 
-console.log(a);
+//console.log(a);
 //console.log(b);
 //console.log(c);
+
+
+function one(){
+    const username = "hemant"
+
+    function two(){
+        const website ="youtube"
+        console.log(username);
+    }
+    //console.log(website);
+
+    two()
+}
+//one()
+
+if(true) {
+    const username = "hemant"
+    if (username === "hemant"){
+        const website = "youtube"
+        console.log(username + website);
+    }
+    //console.log(website);
+
+}
+//console.log(username);
