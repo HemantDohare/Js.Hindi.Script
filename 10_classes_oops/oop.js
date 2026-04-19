@@ -30,4 +30,4 @@ function User(username , loginCount, isLoggedIn){
 const userOne = new User("hemant",12,true)
 const userTwo = new User("hemu",11,false)
 console.log(userOne );
-//console.log(userTwo );
+console.log(userTwo );
